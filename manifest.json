@@ -1,0 +1,15 @@
+{
+  "name": "HANIF",
+  "short_name": "PBB App",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#F8FAFF",
+  "theme_color": "#0A2540",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
